@@ -1,0 +1,30 @@
+.logoimage{
+    margin-top:40px;
+    width: 20%;
+    height:20%;
+}
+
+.cardrow{
+    width: 30%;
+   margin-top: 60px;
+
+}
+
+.usericon{
+    width: 20%;
+    align-items: center;
+}
+
+.inline{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: -26px;
+}
+
+.icon{
+    
+  display: flex;
+justify-content: center;
+align-items: center;
+margin-bottom: 40px;
+}
